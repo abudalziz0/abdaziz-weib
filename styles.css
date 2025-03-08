@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;700&display=swap');
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.hacker-name {
+    color: red;
+    font-weight: bold;
+}
+
+.glitch-text {
+    font-size: 18px;
+    font-style: italic;
+    color: #ff0000;
+    text-shadow: 0 0 5px rgba(255, 0, 0, 0.8);
+}
+
+.hacker-mask {
+    width: 150px;
+    margin: 20px auto;
+}
+
+.message {
+    font-size: 20px;
+    color: cyan;
+}
+
+.description {
+    font-size: 16px;
+    color: #bbb;
+}
+
+.warning {
+    font-size: 14px;
+    color: #ff3333;
+    font-weight: bold;
+}
+
+.signature {
+    font-size: 18px;
+    color: #f00;
+    margin-top: 30px;
+}
